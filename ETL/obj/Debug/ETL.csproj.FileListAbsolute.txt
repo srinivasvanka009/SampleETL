@@ -1,0 +1,17 @@
+F:\New folder\ETL\ETL\bin\Debug\ETLDB.mdf
+F:\New folder\ETL\ETL\bin\Debug\ETLDB_log.ldf
+F:\New folder\ETL\ETL\bin\Debug\ETL.exe.config
+F:\New folder\ETL\ETL\bin\Debug\ETL.exe
+F:\New folder\ETL\ETL\bin\Debug\ETL.pdb
+F:\New folder\ETL\ETL\obj\Debug\ETL.csprojAssemblyReference.cache
+F:\New folder\ETL\ETL\obj\Debug\ETL.exe
+F:\New folder\ETL\ETL\obj\Debug\ETL.pdb
+F:\New folder\ETL\ETL\bin\Debug\ADONetHelper.Core.dll
+F:\New folder\ETL\ETL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\New folder\ETL\ETL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\New folder\ETL\ETL\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\New folder\ETL\ETL\bin\Debug\ADONetHelper.Core.xml
+F:\New folder\ETL\ETL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\New folder\ETL\ETL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\New folder\ETL\ETL\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\New folder\ETL\ETL\obj\Debug\ETL.csproj.CopyComplete
